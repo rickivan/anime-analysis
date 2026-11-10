@@ -1,0 +1,21 @@
+genre_id,name,is_explicit
+1,Action,False
+46,Award Winning,False
+24,Sci-Fi,False
+2,Adventure,False
+10,Fantasy,False
+4,Comedy,False
+30,Sports,False
+8,Drama,False
+47,Gourmet,False
+22,Romance,False
+41,Suspense,False
+7,Mystery,False
+37,Supernatural,False
+36,Slice of Life,False
+5,Avant Garde,False
+9,Ecchi,False
+14,Horror,False
+28,Boys Love,False
+26,Girls Love,False
+12,Hentai,False
