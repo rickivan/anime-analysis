@@ -12634,3 +12634,137 @@ anime_id,related_anime_id,relation_type
 40543,61120,Sequel
 63877,39699,Alternative Version
 61120,40543,Prequel
+19,1109,Summary
+19,39332,Summary
+33,32379,Sequel
+33,10218,Alternative Version
+33,12113,Alternative Version
+33,12115,Alternative Version
+33,52976,Alternative Version
+877,1869,Summary
+777,11077,Prequel
+777,6904,Summary
+777,270,Alternative Version
+6675,11483,Alternative Version
+6675,1980,Character
+1453,3484,Prequel
+1453,2460,Sequel
+1453,2459,Side Story
+1453,3483,Summary
+16664,59930,Alternative Version
+16664,29927,Alternative Version
+16664,59925,Alternative Version
+12115,12113,Prequel
+12115,32379,Sequel
+12115,52976,Alternative Version
+47,56836,Alternative Version
+2761,930,Prequel
+2761,2760,Prequel
+967,37388,Prequel
+967,1356,Sequel
+967,4549,Side Story
+967,1358,Alternative Version
+967,1773,Alternative Version
+967,3027,Alternative Version
+967,2174,Alternative Version
+967,4312,Alternative Version
+967,5291,Alternative Version
+967,10177,Alternative Version
+967,56646,Alternative Version
+967,7363,Other
+967,31018,Other
+49430,65193,Side Story
+52976,33,Alternative Version
+52976,10218,Alternative Version
+52976,12113,Alternative Version
+52976,12115,Alternative Version
+5682,8705,Spin-Off
+5682,438,Alternative Version
+1109,19,Full Story
+39332,19,Full Story
+32379,33,Prequel
+32379,12115,Prequel
+32379,34055,Sequel
+32379,35009,Summary
+10218,12113,Sequel
+10218,33,Alternative Version
+10218,52976,Alternative Version
+12113,10218,Prequel
+12113,12115,Sequel
+12113,52976,Alternative Version
+1869,877,Full Story
+11077,777,Sequel
+6904,777,Full Story
+270,777,Alternative Version
+270,7728,Other
+11483,6675,Alternative Version
+1980,6675,Character
+3484,1453,Sequel
+2460,1453,Prequel
+2460,1453,Alternative Version
+2459,1453,Parent Story
+2459,3483,Parent Story
+3483,1453,Full Story
+59930,29927,Alternative Version
+59930,59925,Alternative Version
+59930,16664,Alternative Version
+29927,59930,Alternative Version
+29927,59925,Alternative Version
+29927,14471,Alternative Version
+29927,22497,Alternative Version
+29927,16664,Alternative Version
+59925,59930,Alternative Version
+59925,29927,Alternative Version
+59925,16664,Alternative Version
+56836,47,Alternative Version
+930,2761,Sequel
+930,2760,Summary
+2760,2761,Sequel
+2760,930,Full Story
+37388,36655,Prequel
+37388,967,Sequel
+1356,967,Prequel
+1356,1357,Sequel
+1356,31018,Other
+4549,967,Parent Story
+1358,967,Alternative Version
+1773,3027,Sequel
+1773,967,Parent Story
+3027,1773,Prequel
+3027,2174,Sequel
+3027,967,Alternative Version
+2174,3027,Prequel
+2174,4312,Sequel
+2174,967,Side Story
+4312,2174,Prequel
+4312,5291,Sequel
+4312,967,Parent Story
+5291,4312,Prequel
+5291,967,Parent Story
+10177,17705,Alternative Version
+56646,64487,Sequel
+56646,967,Alternative Version
+56646,64616,Other
+7363,967,Parent Story
+31018,967,Other
+31018,1356,Other
+31018,17705,Other
+65193,49430,Parent Story
+8705,5682,Spin-Off
+438,5682,Alternative Version
+34055,32379,Prequel
+34055,35676,Summary
+35009,32379,Full Story
+7728,270,Other
+36655,1541,Prequel
+36655,37388,Sequel
+1357,1356,Prequel
+17705,10177,Alternative Version
+17705,31018,Other
+64487,56646,Prequel
+64487,967,Alternative Version
+64616,56646,Other
+35676,34055,Full Story
+1541,36655,Sequel
+1541,3864,Side Story
+3864,1541,Parent Story
